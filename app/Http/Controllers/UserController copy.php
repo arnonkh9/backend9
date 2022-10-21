@@ -1,4 +1,4 @@
-git config --global user.email<?php
+<?php
 
 namespace App\Http\Controllers;
 
